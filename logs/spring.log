@@ -1,0 +1,16 @@
+2022-02-28 21:13:56 [main]INFO  c.c.L.Log4jAppDemoApplicationTests - Starting Log4jAppDemoApplicationTests using Java 17.0.1 on LIN80033739 with PID 11980 (started by dthotamc in C:\Users\dthotamc\eclipse-workspace\Log4jAppDemo)
+2022-02-28 21:13:56 [main]INFO  c.c.L.Log4jAppDemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2022-02-28 21:13:57 [main]INFO  c.c.L.Log4jAppDemoApplicationTests - Started Log4jAppDemoApplicationTests in 1.404 seconds (JVM running for 2.198)
+2022-02-28 21:25:02 [main]INFO  c.c.L.Log4jAppDemoApplication - Starting Log4jAppDemoApplication using Java 17.0.1 on LIN80033739 with PID 10364 (C:\Users\dthotamc\eclipse-workspace\Log4jAppDemo\target\classes started by dthotamc in C:\Users\dthotamc\eclipse-workspace\Log4jAppDemo)
+2022-02-28 21:25:02 [main]INFO  c.c.L.Log4jAppDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2022-02-28 21:25:03 [main]INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-02-28 21:25:03 [main]INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-02-28 21:25:03 [main]INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-02-28 21:25:03 [main]INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-02-28 21:25:03 [main]INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 795 ms
+2022-02-28 21:25:03 [main]INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-28 21:25:03 [main]INFO  c.c.L.Log4jAppDemoApplication - Started Log4jAppDemoApplication in 1.596 seconds (JVM running for 2.057)
+2022-02-28 21:25:03 [main]INFO  c.c.L.Log4jAppDemoApplication - This is information message
+2022-02-28 21:25:03 [main]ERROR c.c.L.Log4jAppDemoApplication - This is error message
+2022-02-28 21:25:03 [main]WARN  c.c.L.Log4jAppDemoApplication - This is warning message
+2022-02-28 21:25:03 [main]ERROR c.c.L.Log4jAppDemoApplication - This is fatal message
